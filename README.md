@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grant-gores
 - 👀 I’m interested in ... Full Stack Web Development
-- 🌱 I’m currently learning ... Full Stack JavaScript
+- 🌱 I’m currently learning ... Full Stack Ruby on Rails
 - 💞️ I’m looking to collaborate on ... Web Apps
 - 📫 How to reach me ... @grantgores on X
 - ⚡ Fun fact: ... I want to make my own saas applications
